@@ -1,19 +1,18 @@
 # I'm Kevin Jimenez
 
 ## A Systems Engineer from Perú
-
 I work as a **Coordinator** in a Digital Factory on my country. I like to program in my free times, my favorite techonologies are Containers, Javascript, Java, MongoDB and MariaDB, but I would like to learn about Go, Python, Kubernets, Devops, DevSecops and IA.
 
 I am currently pursuing a master's degree in Direction of Technologies Information in ESAN University, it's difficult but fun and very interesting.
 
-## Estos son los 5 comando que más uso en la terminal
-| Comando | Description |
+## The 5 commands that I use the most
+| Command | Description |
 |---------|-------------|
-| ls | Listar el directorio actual |
-| cd | Cambiar de directorio |
-| clear | Limpiar la terminal |
-| mkdir | Crear un directorio |
-| sudo | Ejecuta el comando como admin. |
+| ls | List current directory |
+| cd | Change directory |
+| clear | Clean terminal |
+| mkdir | Create a directory |
+| sudo | Run the command as admin. |
 
 <!--
 **kjimenezr89/kjimenezr89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
